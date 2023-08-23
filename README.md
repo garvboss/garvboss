@@ -1,4 +1,4 @@
-<h1 align ="center"><a  href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&center=true&width=435&lines=HI,+I'm+Garv+Bhatia" alt="Typing SVG" /></a></h1>
+<h1 align ="center"><a  href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&pause=1000&center=true&width=500&lines=HI+%F0%9F%91%8B%2C+I'm+Garv+Bhatia" alt="Typing SVG" /></a></h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 - 🌱 I’m currently learning ** Hacking **
