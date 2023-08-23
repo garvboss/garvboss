@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 - 🌱 I’m currently learning ** Backend Development **
 
-- 💬 Ask me about **React Java**
+- 💬 Ask me about **React.js, Java**
 
 - 📫 How to reach me **garv2286@gmail.com**
 
