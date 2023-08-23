@@ -1,7 +1,7 @@
 <h1 align ="center"><a  href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&width=300&lines=HI+%F0%9F%91%8B%2C+I'm+Garv+Bhatia" alt="Typing SVG" /></a></h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-- 🌱 I’m currently learning ** Hacking **
+- 🌱 I’m currently learning ** Backend Development **
 
 - 💬 Ask me about **React Java**
 
@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://https://www.linkedin.com/in/garvbhatia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/garvbhatia/" height="30" width="40" /></a>
-<a href="https://garv-portfolio-vercel.app" target="blank>
+<a href="https://garv-portfolio-vercel.app" target="blank">
 <img
     src="https://img.icons8.com/color/48/null/circled-user-male-skin-type-4--v1.png"
     align="center"
