@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://https://www.linkedin.com/in/garvbhatia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/garvbhatia/" height="30" width="40" /></a>
-<a href="https://garv-portfolio-vercel.app" target="blank">
+<a href="https://garv-portfolio.vercel.app" target="blank">
 <img
     src="https://img.icons8.com/color/48/null/circled-user-male-skin-type-4--v1.png"
     align="center"
