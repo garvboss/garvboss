@@ -1,7 +1,7 @@
 <h1 align ="center"><a  href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&width=300&lines=HI+%F0%9F%91%8B%2C+I'm+Garv+Bhatia" alt="Typing SVG" /></a></h1>
-<h3 align="center">A passionate Frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-- 🌱 I’m currently learning ** Pandas **
+- 🌱 I’m currently learning ** Web Development **
 
 - 💬 Ask me about **React.js, Java**
 
